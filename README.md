@@ -1,6 +1,10 @@
-
-# PDF TO DOCX
-
+###
+     ____  ____  _____   _____ ___    ____   ___   ______  __
+    |  _ \|  _ \|  ___| |_   _/ _ \  |  _ \ / _ \ / ___\ \/ /
+    | |_) | | | | |_      | || | | | | | | | | | | |    \  /
+    |  __/| |_| |  _|     | || |_| | | |_| | |_| | |___ /  \
+    |_|   |____/|_|       |_| \___/  |____/ \___/ \____/_/\_\
+###
 PDF to DOCX est une script python qui vous permet de convertir un fichier pdf vers une document word
 
 
