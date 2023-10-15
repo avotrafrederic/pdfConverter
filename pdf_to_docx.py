@@ -15,7 +15,7 @@ class PdfConvert:
 	def convert(cls,pdfFile):
 		try:
 			converter = Converter("{}.pdf".format(pdfFile))
-			converter.convert("{}.docx".format(pdfFile), start=0 , end=None);
+			converter.convert("{}.docx".format(pdfFile), start=0 , end=None)
 			converter.close()
 			return True
 		except Exception as e:
